@@ -7,7 +7,8 @@
     <img src="https://github.com/JayantGoel001/JayantGoel001/blob/master/GIF/Hi.gif" width="40px" />
   </a>
 </h1>
-<h2 align="center">I'm Parag Jagadale, a Full-Stack Web Developer 👨‍💻 🚀</h2>  
+<!-- //change here  -->
+<h2 align="center">I'm Ayush Soni, a Full-Stack Web Developer 👨‍💻 🚀</h2>  
   <br/>
 <br/>
 <br/>
@@ -31,26 +32,13 @@
 
 ## 🚀 Languages and Tools:
 
-<!-- <p align="left"> 
-<img src="https://img.icons8.com/color/48/000000/html-5.png"/>  
-    <img src="https://img.icons8.com/color/48/000000/css3.png"/>
-   <img src="https://img.icons8.com/color/48/000000/javascript.png"/>
-    <img src="https://img.icons8.com/color/48/000000/react-native.png"/> 
-    <img src="https://img.icons8.com/color/48/000000/redux.png"/>
-     <img src="https://img.icons8.com/color/48/000000/nodejs.png"/>
-     <img src="https://img.icons8.com/color/48/000000/solidty.png"/>
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="48" height="48"/>
-     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40"/> 
-  <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="45" height="45"/> 
-   <img src="https://img.icons8.com/color/48/000000/git.png"/> 
-  
-</p> -->
+
  <p align="center" >
   <img  src="https://user-images.githubusercontent.com/82999542/132934744-131c1891-4a4f-4e88-a64a-36720ad7470b.png">
   </p>
 
 <br/>
-<p align="center"><img alt="parag's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=imparag28&langs_count=8&count_private=true&layout=compact&theme=react&hide_border=true&bg_color=0D1117" />
+<p align="center"><img alt="ayush's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=imparag28&langs_count=8&count_private=true&layout=compact&theme=react&hide_border=true&bg_color=0D1117" />
        
 </p>
 
@@ -60,13 +48,13 @@
   <p align="center">&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=imparag28&show_icons=true&locale=en&theme=highcontrast" alt="Abhijeet9242" /></p>
 <br>
 
-<p align="center"><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=imparag28&&theme=highcontrast" alt="imparag28" /></p>
+<p align="center"><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=imparag28&&theme=highcontrast" alt="ayushsoni86" /></p>
   <b>Note:</b> Top languages is only a metric of the languages my public code consists of and doesn't reflect experience or skill level.
 
 
 <br/>
 <br/>
-<img alt="parag's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=imparag28&bg_color=0D1117&color=5BCDEC&line=5BCDEC&point=FFFFFF&hide_border=true" />
+<img alt="Ayush's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=AyushSoni86&bg_color=0D1117&color=5BCDEC&line=5BCDEC&point=FFFFFF&hide_border=true" />
 
 <br/>
 <br/>
