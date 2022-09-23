@@ -18,11 +18,11 @@
 
 - 🌱 𝙸’𝚖 𝚌𝚞𝚛𝚛𝚎𝚗𝚝𝚕𝚢 𝚕𝚎𝚊𝚛𝚗𝚒𝚗𝚐 **MERN Full Stack Web Development**
 - 👯 𝙸’𝚖 𝚕𝚘𝚘𝚔𝚒𝚗𝚐 𝚝𝚘 𝚌𝚘𝚕𝚕𝚊𝚋𝚘𝚛𝚊𝚝𝚎 𝚘𝚗 **Web Development**
--  ❓ Ask me about anything related to MERN stack and related technologies  
+- ❓ Ask me about anything related to MERN stack and related technologies
 - ⚡ 𝙵𝚞𝚗 𝚏𝚊𝚌𝚝 : **Coding can “power up” your brain 😁**
 
 <br/>
-<br/>                                                                                                                                          
+<br>                                                                                                                                          
 <p align="center">
   <img src="https://gpvc.arturio.dev/imparag28" alt="𝚙𝚛𝚘𝚏𝚒𝚕𝚎 𝚟𝚒𝚎𝚠𝚜">
 <!--   <img alt = "profile views" src="https://komarev.com/ghpvc/?username=imparag28&style=flat&color=brightgreen"> -->
@@ -31,7 +31,6 @@
 </p>
 
 ## 🚀 Languages and Tools:
-
 
  <p align="center" >
   <img  src="https://user-images.githubusercontent.com/82999542/132934744-131c1891-4a4f-4e88-a64a-36720ad7470b.png">
@@ -51,7 +50,6 @@
 <p align="center"><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=imparag28&&theme=highcontrast" alt="ayushsoni86" /></p>
   <b>Note:</b> Top languages is only a metric of the languages my public code consists of and doesn't reflect experience or skill level.
 
-
 <br/>
 <br/>
 <img alt="Ayush's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=AyushSoni86&bg_color=0D1117&color=5BCDEC&line=5BCDEC&point=FFFFFF&hide_border=true" />
@@ -60,9 +58,11 @@
 <br/>
 
 ## Contact Me ☎️
+
 <p align="left">
 
 <a href = "https://www.linkedin.com/in/paragj007/"><img src="https://img.icons8.com/fluent/48/000000/linkedin.png"/></a>
- * Mail me on ayusoni86@gmail.com
+
+- Mail me on ayusoni86@gmail.com 
 
 </p>
