@@ -63,6 +63,6 @@
 <p align="left">
 
 <a href = "https://www.linkedin.com/in/paragj007/"><img src="https://img.icons8.com/fluent/48/000000/linkedin.png"/></a>
- * Mail me on paragj28@gmail.com
+ * Mail me on ayusoni86@gmail.com
 
 </p>
