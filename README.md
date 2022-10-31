@@ -24,9 +24,9 @@
 <br/>
 <br>                                                                                                                                          
 <p align="center">
-  <img src="https://gpvc.arturio.dev/imparag28" alt="𝚙𝚛𝚘𝚏𝚒𝚕𝚎 𝚟𝚒𝚎𝚠𝚜">
-<!--   <img alt = "profile views" src="https://komarev.com/ghpvc/?username=imparag28&style=flat&color=brightgreen"> -->
-  <img src="https://img.shields.io/github/stars/imparag28?label=Stars" alt="𝚃𝚘𝚝𝚊𝚕 𝚂𝚝𝚊𝚛𝚜">
+  <img src="https://gpvc.arturio.dev/AyushSoni86" alt="𝚙𝚛𝚘𝚏𝚒𝚕𝚎 𝚟𝚒𝚎𝚠𝚜">
+<!--   <img alt = "profile views" src="https://komarev.com/ghpvc/?username=AyushSoni86&style=flat&color=brightgreen"> -->
+  <img src="https://img.shields.io/github/stars/AyushSoni86?label=Stars" alt="𝚃𝚘𝚝𝚊𝚕 𝚂𝚝𝚊𝚛𝚜">
  <img src="https://img.shields.io/twitter/follow/axpa28?logo=twitterstyle=flat&color=brightgreen" alt="axpa28" />
 </p>
 
@@ -37,7 +37,7 @@
   </p>
 
 <br/>
-<p align="center"><img alt="ayush's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=imparag28&langs_count=8&count_private=true&layout=compact&theme=react&hide_border=true&bg_color=0D1117" />
+<p align="center"><img alt="ayush's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AyushSoni86&langs_count=8&count_private=true&layout=compact&theme=react&hide_border=true&bg_color=0D1117" />
        
 </p>
 
@@ -46,7 +46,7 @@
 
 <br>
 
-<p align="center"><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=imparag28&&theme=highcontrast" alt="ayushsoni86" /></p>
+<p align="center"><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=AyushSoni86&&theme=highcontrast" alt="ayushsoni86" /></p>
   <b>Note:</b> Top languages is only a metric of the languages my public code consists of and doesn't reflect experience or skill level.
 
 <br/>
@@ -60,7 +60,7 @@
 
 <p align="left">
 
-<a href = "https://www.linkedin.com/in/paragj007/"><img src="https://img.icons8.com/fluent/48/000000/linkedin.png"/></a>
+<a href = "https://www.linkedin.com/in/ayush-soni-340a9b222/"><img src="https://img.icons8.com/fluent/48/000000/linkedin.png"/></a>
 
 - Mail me on ayusoni86@gmail.com 
 
