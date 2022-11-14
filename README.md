@@ -63,6 +63,8 @@
 <p align="left">
 
 <a href = "https://www.linkedin.com/in/ayush-soni-340a9b222/"><img src="https://img.icons8.com/fluent/48/000000/linkedin.png"/></a>
+  <a href="https://codepen.io/abhikorde2002" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codepen.svg" alt="abhikorde2002" height="30" width="40" /></a>
+<a href="https://www.leetcode.com/ayusoni86" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="abhishekkorde44" height="30" width="40" /></a>
 
 - Mail me on ayusoni86@gmail.com 
 
