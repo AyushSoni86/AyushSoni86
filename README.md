@@ -25,7 +25,7 @@
 <br>                                                                                                                                          
 <p align="center">
   <img src="https://gpvc.arturio.dev/AyushSoni86" alt="𝚙𝚛𝚘𝚏𝚒𝚕𝚎 𝚟𝚒𝚎𝚠𝚜">
-  <img alt = "profile views" src="https://komarev.com/ghpvc/?username=AyushSoni86&style=flat&color=brightgreen"> 
+<!--   <img alt = "profile views" src="https://komarev.com/ghpvc/?username=AyushSoni86&style=flat&color=brightgreen">  -->
   <img src="https://img.shields.io/github/stars/AyushSoni86?label=Stars" alt="𝚃𝚘𝚝𝚊𝚕 𝚂𝚝𝚊𝚛𝚜">
  <img src="https://img.shields.io/twitter/follow/AyushSoni2464?logo=twitterstyle=flat&color=brightgreen" alt="AyushSoni2464" />
 </p>
