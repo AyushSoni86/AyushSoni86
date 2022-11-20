@@ -22,7 +22,13 @@
 - ⚡ 𝙵𝚞𝚗 𝚏𝚊𝚌𝚝 : **Coding can “power up” your brain 😁**
 
 <br/>
-<br>                                                                                                                                          
+<br>    
+<a href=#><img src="contributions.svg" alt = "contributions"></a>
+
+<p align="center"> 
+  Visitor count<br>
+  <img src="https://profile-counter.glitch.me/daweedkob/count.svg" />
+</p>
 <p align="center">
   <img src="https://gpvc.arturio.dev/AyushSoni86" alt="𝚙𝚛𝚘𝚏𝚒𝚕𝚎 𝚟𝚒𝚎𝚠𝚜">
 <!--   <img alt = "profile views" src="https://komarev.com/ghpvc/?username=AyushSoni86&style=flat&color=brightgreen">  -->
