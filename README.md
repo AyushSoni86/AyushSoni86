@@ -27,7 +27,7 @@
 
 <p align="center"> 
   Visitor count<br>
-  <img src="https://profile-counter.glitch.me/daweedkob/count.svg" />
+  <img src="https://profile-counter.glitch.me/AyushSoni86/count.svg" />
 </p>
 <p align="center">
   <img src="https://gpvc.arturio.dev/AyushSoni86" alt="𝚙𝚛𝚘𝚏𝚒𝚕𝚎 𝚟𝚒𝚎𝚠𝚜">
