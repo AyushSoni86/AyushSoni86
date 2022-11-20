@@ -10,10 +10,10 @@
 <!-- //change here  -->
 <h2 align="center">I'm Ayush Soni, a Full-Stack Web Developer 👨‍💻 🚀</h2>  
   <br/>
-<br/>
-<br/>
+
+
 <a target="_blank">
-  <img align="right" height="250" width="400" alt="GIF" src="https://raw.githubusercontent.com/Adam-pw/Adam-pw/main/animation_500_kxa883sd.gif"">
+  <img align="right" height="250" width="auto" margin-top = "-10px" alt="GIF" src="https://raw.githubusercontent.com/Adam-pw/Adam-pw/main/animation_500_kxa883sd.gif"">
 </a>
 
 - 🌱 𝙸’𝚖 𝚌𝚞𝚛𝚛𝚎𝚗𝚝𝚕𝚢 𝚕𝚎𝚊𝚛𝚗𝚒𝚗𝚐 **MERN Full Stack Web Development**
@@ -23,12 +23,12 @@
 
 <br/>
 <br>    
-<a href=#><img src="contributions.svg" alt = "contributions"></a>
 
 <p align="center"> 
   Visitor count<br>
   <img src="https://profile-counter.glitch.me/AyushSoni86/count.svg" />
 </p>
+
 <p align="center">
   <img src="https://gpvc.arturio.dev/AyushSoni86" alt="𝚙𝚛𝚘𝚏𝚒𝚕𝚎 𝚟𝚒𝚎𝚠𝚜">
 <!--   <img alt = "profile views" src="https://komarev.com/ghpvc/?username=AyushSoni86&style=flat&color=brightgreen">  -->
@@ -36,6 +36,7 @@
  <img src="https://img.shields.io/twitter/follow/AyushSoni2464?logo=twitterstyle=flat&color=brightgreen" alt="AyushSoni2464" />
 </p>
 
+<a href=#><img src="contributions.svg" alt = "contributions"></a>
 ## 🚀 Languages and Tools:
 
  <p align="center" >
@@ -43,14 +44,14 @@
   </p>
 
 <br/>
-<p align="center"><img alt="ayush's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AyushSoni86&langs_count=8&count_private=true&layout=compact&theme=react&hide_border=true&bg_color=0D1117" />
-       
-</p>
+
+<!-- <p align="center"><img alt="ayush's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AyushSoni86&langs_count=8&count_private=true&layout=compact&theme=react&hide_border=true&bg_color=0D1117" />
+</p> -->
+
 
 ## 📊 My Github Stats
 
 
-<br>
 <p align="center">&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=AyushSoni86&show_icons=true&locale=en&theme=highcontrast" alt="AyushSoni86" /></p>
 <br>
                                   
