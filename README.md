@@ -37,11 +37,11 @@
 </p>
 
 <a href=#><img src="contributions.svg" alt = "contributions"></a>
-## 🚀 Languages and Tools:
 
- <p align="center" >
+
+<!--  <p align="center" >
   <img  src="https://user-images.githubusercontent.com/82999542/132934744-131c1891-4a4f-4e88-a64a-36720ad7470b.png">
-  </p>
+  </p> -->
 
 <br/>
 
